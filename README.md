@@ -12,13 +12,13 @@ Maga a program egy Raspberry Pi Zero W-n fut egy RFID-RC522-es RFID olvasót has
 # **Linkek:**
 
 
-A Raspberry-n futó **Python szkript** itt található: [->KATT<-](https://github.com/ereditsdani/ED_KB_RFID/tree/main/Kód/)
+A Raspberry-n futó **Python szkript** itt található: [->KATT<-](https://github.com/ereditsdani/ED_KB_RFID/tree/main/Kód/read.py)
 
 
 A **fejlesztői dokumentáció** itt található: [->KATT<-](https://github.com/ereditsdani/ED_KB_RFID/tree/main/Dokumentáció)
 
 
-A **felhasználói útmutató** itt található: [->KATT<-](https://github.com/ereditsdani/ED_KB_RFID/tree/main/Kód/read.py)
+A **felhasználói útmutató** itt található: [->KATT<-](https://github.com/ereditsdani/ED_KB_RFID/tree/main/Dokumentáció)
 
 
 
